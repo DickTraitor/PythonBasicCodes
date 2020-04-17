@@ -1,0 +1,1 @@
+# removing numbers from a given word in python

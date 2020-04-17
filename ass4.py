@@ -1,5 +1,3 @@
-
-
                             #swap casing in python
 for i in word[0::1]:
     if ord(i)>=97 and ord(i)<=123:
