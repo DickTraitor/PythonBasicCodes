@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "work": "meeting",
+        "time": "2020-04-14",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "work": "next",
+        "time": "2020-04-01",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "work": "sex",
+        "time": "2020-04-15",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "work": "run",
+        "time": "2020-04-07",
+        "completed": true
+    },
+    {
+        "id": 5,
+        "work": "workout",
+        "time": "2020-04-18",
+        "completed": true
+    }
+]
