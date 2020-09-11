@@ -100,8 +100,7 @@ for match in matches:
 
 # a = open('university_towns.txt','w')
 # a.writelines(string_list)
-# a.close()
-,text)
+# a.close(),text)
 print(subbed_urls) # prints some extra contents also...
  
 print("\nnew--------------------------------------------------------------------\n")
